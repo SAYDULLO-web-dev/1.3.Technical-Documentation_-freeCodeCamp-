@@ -44,6 +44,12 @@ This project is part of the **Responsive Web Design** module on [freeCodeCamp](h
 ## 📷 Preview
 
 Include screenshots or a live demo link here (e.g., hosted on GitHub Pages or CodePen).
+![Screenshot_1](https://github.com/user-attachments/assets/8e68a8ac-6f01-47e6-b8a7-84011d755665)
+![Screenshot_2](https://github.com/user-attachments/assets/ef258135-368e-436e-bb3d-18146142ae35)
+![Screenshot_3](https://github.com/user-attachments/assets/caf95f5e-dc79-46d2-89cb-e43083d9ab88)
+![Screenshot_4](https://github.com/user-attachments/assets/c199b778-0b80-4a1b-ac47-0af9ed6f18c2)
+![Screenshot_5](https://github.com/user-attachments/assets/3b7fef2d-259a-4615-ba8e-cb22a79ee70f)
+![Screenshot_6](https://github.com/user-attachments/assets/6ae96f97-b6dc-47ae-b9df-cc8aa122ad1b)
 
 ---
 
@@ -55,30 +61,23 @@ Include screenshots or a live demo link here (e.g., hosted on GitHub Pages or Co
 ### Steps to Run Locally
 1. Clone this repository:
    ```bash
-   ![Screenshot_1](https://github.com/user-attachments/assets/8ae92446-38bd-4283-b86e-f0a0fd979bf9)
-   ![Screenshot_2](https://github.com/user-attachments/assets/e46a947b-0980-43d2-9c66-197ad58a5a7f)
-   ![Screenshot_3](https://github.com/user-attachments/assets/76d9d654-0ab8-4944-83a7-fb481193d2e3)
-   ![Screenshot_4](https://github.com/user-attachments/assets/4294633f-8a4f-431b-b4c1-e6e9e66fccd2)
-   ![Screenshot_5](https://github.com/user-attachments/assets/cf77bd6d-6091-48b4-955e-535692b6ee44)
-   ![Screenshot_6](https://github.com/user-attachments/assets/7cee2f00-a5b2-4703-92e5-d6b2221782ce)
+   git clone https://github.com/SAYDULLO-web-dev/1.3.Technical-Documentation_-freeCodeCamp-.git
+
+2. Open the index.html file in your preferred web browser.
+
+🎯 Project Objectives
+* Create a structured and accessible technical documentation page.
+* Practice responsive web design techniques using CSS.
+* Implement semantic HTML5 for improved accessibility and SEO.
+
+📚 Lessons Learned
+* Designing responsive layouts using CSS Grid and media queries.
+* Highlighting code with semantic elements like <code> and <pre>.
+* Creating an intuitive navigation system.
+
+👏 Acknowledgements
+* freeCodeCamp: For the project guidelines and resources.
+* W3Schools: For the reference content included in the documentation.
 
 
-
-   (https://github.com/SAYDULLO-web-dev/1.3.Technical-Documentation_-freeCodeCamp-.git)
-
- 2. Open the index.html file in your preferred web browser.
-
- 🎯 Project Objectives
- * Create a structured and accessible technical documentation page.
- * Practice responsive web design techniques using CSS.
- * Implement semantic HTML5 for improved accessibility and SEO.
-
-  📚 Lessons Learned
- * Designing responsive layouts using CSS Grid and media queries.
- * Highlighting code with semantic elements like <code> and <pre>.
- * Creating an intuitive navigation system.
-   
- 👏 Acknowledgements
- * freeCodeCamp: For the project guidelines and resources.
- * W3Schools: For the reference content included in the documentation.
 
