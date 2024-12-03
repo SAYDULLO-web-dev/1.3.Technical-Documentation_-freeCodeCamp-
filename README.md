@@ -65,17 +65,23 @@ Include screenshots or a live demo link here (e.g., hosted on GitHub Pages or Co
 
 2. Open the index.html file in your preferred web browser.
 
+
 🎯 Project Objectives
+
 * Create a structured and accessible technical documentation page.
 * Practice responsive web design techniques using CSS.
 * Implement semantic HTML5 for improved accessibility and SEO.
 
+
 📚 Lessons Learned
+
 * Designing responsive layouts using CSS Grid and media queries.
-* Highlighting code with semantic elements like <code> and <pre>.
+* Highlighting code with semantic elements like &lt;code&gt; and &lt;pre&gt;.
 * Creating an intuitive navigation system.
 
+
 👏 Acknowledgements
+
 * freeCodeCamp: For the project guidelines and resources.
 * W3Schools: For the reference content included in the documentation.
 
